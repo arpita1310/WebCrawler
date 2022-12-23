@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS:-
+
+1. REQUIRES NETWORK CONNECTION
+2. REQUIRES MODULES TO BE INSTALLED BEFOREHAND
+                       
+                      1. REQUESTS MODULE
+                      2. BS4
+                      3. PYGAME
+                      4. PILLOW
+                      5. TKINTER
+                      
+3. MINIMUM 128MB RAM
+4. MINIMUM 512MB VIDEO RAM
+5. PYTHON 3.7 MINIMUM
